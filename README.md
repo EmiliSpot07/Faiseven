@@ -34,9 +34,3 @@ This profile brings together projects, practice, and small steps toward bigger g
 <div align="center">
   I like water 🥛
 </div>
-
----
-
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Space_banner.jpg/1197px-Space_banner.jpg" width="100%" />
-</div>
