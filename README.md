@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
   
-# 🌌 **Faiseven**
+# 🌌 **EmiliS**
 
 **Developer in progress · Always learning · Building things**  
 ✨ Exploring code the way one explores galaxies ✨
